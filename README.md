@@ -1,2 +1,2 @@
-# thirdrepo
-This is my third repository directly on the GitHub server 
+# c++ Repo
+This repo contains c++ programs 
